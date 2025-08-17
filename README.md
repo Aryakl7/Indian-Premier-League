@@ -92,7 +92,7 @@ Make sure you have the following installed on your system:
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/your_username/your_project_name.git
+    git clone https://github.com/Aryakl7/Indian-Premier-League.git
     ```
 2.  **Install Backend Dependencies**
     ```sh
